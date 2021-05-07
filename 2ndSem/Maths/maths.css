@@ -5,7 +5,7 @@ body{
     margin-left: 250px;
 }
 .list:hover{
-    background-color: wheat;
+    background-color: #ec9563f5;
     color: white;
 }
 .parents{
