@@ -183,9 +183,10 @@ li:hover{
 
 
 .mainDiv{
+  margin-top: 5%;
   background-color: rgba(140, 135, 122, 0.5);
   display: 100vw;
-  height: 50vh;
+  height: 44vh;
   display: flex;
 }
 
